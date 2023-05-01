@@ -1,5 +1,5 @@
 ## Title: FuckClassicNamePlates
-## Version: 6.9
+## Version: 0.1
 ## Author: Ferib
-## Interface: 42000
+## Interface: 11403
 FuckClassicNamePlates.lua
